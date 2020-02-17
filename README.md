@@ -1,4 +1,6 @@
  Simple increment and decrement counter example using React covering the React LifeCycle methods like **shouldComponentUpdate** and **getDerivedStateFromProps** etc . Simple and super light which will clear the concepts of LifeCycle methods in React for beginners.
+ 
+ For a video tutorial watch - https://www.youtube.com/watch?v=7iHepe36m0c
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
